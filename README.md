@@ -8,3 +8,6 @@ Features:
 - Stores only non-zero elements.
 - Uses an **array of structures**.
 - Displays **sparse representation** and the **full matrix**
+
+- code: https://github.com/Rayineni-ranjithkumar/Sparse-Matrix-Array-Implementation/blob/main/sparse_matrix.cpp
+- 
