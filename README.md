@@ -1,4 +1,4 @@
-Sparse-Matrix-Array-Implementation
+**Sparse-Matrix-Array-Implementation :** 
 
 Overview:
 This project demonstrates how to implement a **sparse matrix** using **arrays** in C++.  
