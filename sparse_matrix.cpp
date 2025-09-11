@@ -41,10 +41,10 @@ public:
         for (int i = 0; i < rows; i++) {
             for (int j = 0; j < cols; j++) {
                 if (k < nonZeroCount && elements[k].row == i && elements[k].col == j) {
-                    cout << elements[k].value << " "; // Print non-zero value
-                    k++; // Move to next non-zero element
+                    cout << elements[k].value << " "; 
+                    k++;
                 } else {
-                    cout << "0 "; // Print zero if no value stored
+                    cout << "0 ";
                 }
             }
             cout << "\n";
